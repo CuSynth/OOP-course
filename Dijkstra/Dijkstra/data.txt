@@ -1,0 +1,10 @@
+S Moscow
+Moscow Novosibirsk 7
+Moscow Toronto 9
+Moscow Krasnoyarsk 14
+Novosibirsk Toronto 10
+Novosibirsk Omsk 15
+Omsk Toronto 11
+Toronto Krasnoyarsk 2
+Krasnoyarsk Kiev 9
+Kiev Omsk 6
