@@ -1,0 +1,1 @@
+tst.bmp 3 2 newTst.bmp
