@@ -1,0 +1,19 @@
+				 copy 0, 20				
+insert					" ",				 0			
+paste		 0			
+					insert " ", 0			
+paste 0			 
+insert " ", 0		 
+					paste 0			
+undo
+undo			 
+undo			
+				undo			
+redo		
+		 redo
+delete 0, 42			 
+				undo
+			redo					
+copy 0, 35				
+insert			   " ",			0
+paste				0
